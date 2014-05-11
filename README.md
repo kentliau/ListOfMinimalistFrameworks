@@ -5,6 +5,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 ###Index
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
+* [Database framework for PHP](#database-framework-for-php)
 * [Frameworks for Front-end JS](#frameworks-for-front-end-js)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
@@ -49,6 +50,11 @@ Name | Repository | License
 [go-horse](https://github.com/gabrielfalcao/go-horse) | https://github.com/gabrielfalcao/go-horse | [MIT]((http://opensource.org/licenses/MIT)
 [Raphters](https://github.com/DanielWaterworth/Raphters) | https://github.com/DanielWaterworth/Raphters | [GPL]((http://opensource.org/licenses/gpl-3.0.html)
 
+## Database framework for PHP
+Name | Minimum size (base) | Repository | License
+--- | --- | --- | ---
+[Medoo](http://medoo.in/) | 10KB | https://github.com/catfan/Medoo | [MIT](http://opensource.org/licenses/MIT)
+
 ## Frameworks for Front-end JS
 Name | Bower Install | Repository | License
 --- | --- | --- | ---
@@ -89,6 +95,7 @@ Name | Repository | License
 Name | Repository | License
 --- | --- | --- | ---
 [Stapes](http://hay.github.io/stapes/) | https://github.com/hay/stapes | [MIT](http://opensource.org/licenses/MIT)
+[Mithril](http://lhorie.github.io/mithril/) | https://github.com/lhorie/mithril.js | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web Framework for Lua
 Name | Bower Install | Repository | License
@@ -162,7 +169,7 @@ Name | Gem Install | Repository | License
 [Camping](http://camping.io/) | gem install camping | http://github.com/camping/camping | [MIT](http://opensource.org/licenses/MIT)
 [Cuba](http://cuba.is/) | gem install cuba | https://github.com/soveran/cuba | [MIT](http://opensource.org/licenses/MIT)
 [Grape](http://intridea.github.io/grape) | gem install grape | https://github.com/intridea/grape | [MIT](http://opensource.org/licenses/MIT)
-[Crepe](https://github.com/stephencelis/crepe) | gem install crepe | https://github.com/stephencelis/crepe | [MIT](http://opensource.org/licenses/MIT)
+[Crepe](https://github.com/crepe/crepe) | gem install crepe --pre | https://github.com/stephencelis/crepe | [MIT](http://opensource.org/licenses/MIT)
 [Hobbit](https://github.com/patriciomacadden/hobbit) | gem install hobbit | https://github.com/patriciomacadden/hobbit | [MIT](http://opensource.org/licenses/MIT)
 [Kenji](https://github.com/kballenegger/kenji) | gem install kenji | https://github.com/kballenegger/Kenji | [Azure](http://license.azuretalon.com/)
 [Nancy](http://guilleiguaran.github.io/nancy) | gem install nancy | https://github.com/guilleiguaran/nancy | [MIT](http://opensource.org/licenses/MIT)
